@@ -2,6 +2,7 @@
 // import Accordion from 'react-bootstrap/Accordion';
 import { Container, Row, Col, Accordion } from "react-bootstrap";
 import { faq } from "../data/index";
+// import { faq } from "../data/index";
 function FaqComponent() {
   return (
     <div className="faq">

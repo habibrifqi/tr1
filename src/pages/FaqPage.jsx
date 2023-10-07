@@ -1,4 +1,4 @@
-import React from 'react'
+
 import FaqComponent from '../components/FaqComponent'
 function FaqPage() {
   return (
