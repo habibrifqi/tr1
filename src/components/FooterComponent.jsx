@@ -1,7 +1,7 @@
 // import React from 'react'
 import {Container, Row, Col } from 'react-bootstrap'
 import { Link } from "react-router-dom";
-
+import '../dist/css/main.css';
 function FooterComponent() {
   return (
     <div className='footer py-5'>
